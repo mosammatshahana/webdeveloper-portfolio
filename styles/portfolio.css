@@ -129,3 +129,21 @@ main{
     font-size: 20px;
     font-weight: 700;
 }
+#what-i-do-description{
+    padding: 20px 150px 50px 150px;
+    color: #757575;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+}
+.skill-title{
+     color: #181818;
+     font-weight: 700;
+     font-size: 20px;
+}
+.skill-description{
+    color: #757575;
+    font-weight: 400;
+     font-size: 16px;
+}
